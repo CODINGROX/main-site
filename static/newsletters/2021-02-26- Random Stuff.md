@@ -12,7 +12,7 @@ Having the right tools as a developer will save you a lot of time on everything.
 
 Impossible for me to remember the syntax and snippets of the tools and languages I use. Besides, it’s useless since that’s not the important thing. The important thing is to remember the concepts, not the details. For details, cheatsheets are there for that, and [DevHints](https://devhints.io/) is the gold mine.
 
-Learn [X in Y minutes](https://learnxinyminutes.com/ is the kind of crazy site you have to see to believe. Every possible language, explained in one page, in almost every language, through concrete examples of code. From more than standard languages like C++ to infernal languages like LOLCODE you will find everything.
+Learn [X in Y minutes](https://learnxinyminutes.com/) is the kind of crazy site you have to see to believe. Every possible language, explained in one page, in almost every language, through concrete examples of code. From more than standard languages like C++ to infernal languages like LOLCODE you will find everything.
 
 With the pandemic, my internet connection has become even more important than before. If there is a network outage or drop, I want to know immediately. Fortunately, Cloudflare has made [a page analyzing your connection](https://speed.cloudflare.com/) in great detail. With one click, it tells you everything about your current connection status. Handy to know what happens when your call lag or when nothing works anymore!
 
