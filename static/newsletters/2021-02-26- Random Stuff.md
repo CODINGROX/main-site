@@ -11,8 +11,8 @@ Article
 <!-- > Quote *([@User]())* -->
 
 # News
-## Article ([link]())
-[Writer]() writes about...
+## Article ([link](https://coder-coder.com/stay-motivated-learning-code/))
+Ever felt burned out? Ever felt like what you do just isn't good? Maybe you lack the willpower to stay concentrated? [Jessica](https://coder-coder.com/about/) gives 10 really cool tips about how to stay motivated when learning and coding!
 
 # Upcoming Events
 ## Event
